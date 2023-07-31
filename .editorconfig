@@ -1,0 +1,5 @@
+root = true
+
+[*]  #Dentro dos colchetes podem ser colocados a extensão dos arquivos que a formatação deve ser usada.
+indent_style = space
+indent_size = 2
